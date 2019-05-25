@@ -1,0 +1,4 @@
+SELECT users.name AS name_programmer, COUNT(skills.id) AS jumlah_skill 
+FROM tabel_users AS users
+INNER JOIN tabel_skills AS skills ON users.id = skills.user_id
+GROUP BY users.name;
