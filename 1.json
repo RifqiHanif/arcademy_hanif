@@ -1,7 +1,7 @@
 {
 	"nama" : "Muhammad Rifqi Hanif",
 	"address" : "Jl. H. Muhidin No.43 RT02/02 Cipayung Jaya, Cipayung, Depok",
-	"hobbies" : ["travelling","hiking"],
+	"hobbies" : ["travelling","hiking","gaming"],
 	"is_married" : false,
 	"school" : { "high school":"MAN 7 Jakarta","University":"Politeknik Negeri Jakarta"},
 	"skills" : { "hardskill" : "electrical service","softskill":["gaming","photo editing"]}
